@@ -1,0 +1,100 @@
+4 four three seven seven
+3 eight three three
+4 eight three three eight
+4 two seven zero four
+4 eight nine six six
+4 four five seven eight
+4 nine five two three
+4 seven three seven five
+4 four eight zero three
+4 nine eight zero six
+4 eight two six seven
+4 five six nine five
+4 one six nine four
+4 three zero seven three
+3 six six six
+4 seven eight seven three
+4 four seven nine six
+3 eight five four
+4 eight four eight six
+4 four zero eight one
+4 two eight nine eight
+4 three five six six
+3 three seven zero
+4 eight three five five
+4 two two two three
+4 three nine zero eight
+4 two four six six
+4 one five two two
+3 eight eight eight
+4 five eight four two
+4 six seven three three
+4 four nine nine seven
+3 seven zero three
+4 five three six zero
+4 seven one nine one
+2 nine zero
+4 seven three five seven
+3 four two three
+4 seven four three two
+4 seven two eight nine
+4 four six one five
+4 eight three six six
+3 seven zero seven
+4 seven four seven four
+4 seven two four nine
+4 five two nine four
+4 eight five six two
+4 seven four nine two
+4 two six six nine
+4 seven eight three zero
+4 five four two nine
+4 three five eight nine
+4 two zero four eight
+4 five three zero five
+4 four seven eight six
+4 six four nine two
+4 two eight three one
+4 nine five three zero
+4 two zero two zero
+4 eight two four zero
+4 nine seven seven two
+4 eight nine three three
+4 one two two four
+4 three seven three zero
+4 one two eight zero
+4 one two five zero
+4 six four six six
+4 five five eight six
+4 four seven zero two
+4 seven nine three three
+4 seven six zero three
+4 six four nine two
+2 one six
+3 seven five six
+4 one one one eight
+4 six seven two four
+4 six one eight one
+4 four five nine four
+4 nine zero five four
+4 eight nine one zero
+4 one four seven four
+4 three six three three
+3 seven five six
+4 seven one seven four
+4 one three zero nine
+4 five six two five
+3 six seven eight
+3 five two nine
+4 five seven five five
+4 nine six six seven
+4 one eight nine seven
+4 nine six zero eight
+4 eight one five three
+4 eight seven one three
+3 eight nine one
+4 one nine five eight
+4 two two five seven
+4 six four eight nine
+4 seven zero one six
+4 six five zero zero
