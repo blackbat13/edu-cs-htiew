@@ -1,0 +1,101 @@
+Ranga	Tytu³	Platforma	Metascore	Data
+1	The Legend of Zelda: Ocarina of Time	Nintendo 64	99	23.11.1998
+2	Tony Hawk's Pro Skater 2	PlayStation	98	20.09.2000
+3	Grand Theft Auto IV	PlayStation 3	98	29.04.2008
+4	SoulCalibur	Dreamcast	98	08.09.1999
+5	Grand Theft Auto IV	Xbox 360	98	29.04.2008
+6	Super Mario Galaxy	Wii	97	12.11.2007
+7	Super Mario Galaxy 2	Wii	97	23.05.2010
+8	Red Dead Redemption 2	Xbox One	97	26.10.2018
+9	Grand Theft Auto V	Xbox One	97	18.11.2014
+10	Grand Theft Auto V	PlayStation 3	97	17.09.2013
+11	Disco Elysium: The Final Cut	PC	97	30.03.2021
+12	Grand Theft Auto V	Xbox 360	97	17.09.2013
+13	Tony Hawk's Pro Skater 2	Dreamcast	97	06.11.2000
+14	The Legend of Zelda: Breath of the Wild	Switch	97	03.03.2017
+15	Tony Hawk's Pro Skater 3	PlayStation 2	97	28.10.2001
+16	Perfect Dark	Nintendo 64	97	22.05.2000
+17	Red Dead Redemption 2	PlayStation 4	97	26.10.2018
+18	Grand Theft Auto V	PlayStation 4	97	18.11.2014
+19	Metroid Prime	GameCube	97	17.11.2002
+20	Grand Theft Auto III	PlayStation 2	97	22.10.2001
+21	Super Mario Odyssey	Switch	97	27.10.2017
+22	Halo: Combat Evolved	Xbox	97	14.11.2001
+23	NFL 2K1	Dreamcast	97	07.09.2000
+24	Half-Life 2	PC	96	16.11.2004
+25	Grand Theft Auto V	PC	96	13.04.2015
+26	The Legend of Zelda: Breath of the Wild	Wii U	96	03.03.2017
+27	BioShock	Xbox 360	96	21.08.2007
+28	GoldenEye 007	Nintendo 64	96	25.08.1997
+29	Uncharted 2: Among Thieves	PlayStation 3	96	13.10.2009
+30	Resident Evil 4	GameCube	96	11.01.2005
+31	The Orange Box	Xbox 360	96	10.10.2007
+32	The Orange Box	PC	96	10.10.2007
+33	Batman: Arkham City	PlayStation 3	96	18.10.2011
+34	Portal Companion Collection	Switch	96	28.06.2022
+35	Tekken 3	PlayStation	96	29.04.1998
+36	Elden Ring	Xbox Series X	96	25.02.2022
+37	Mass Effect 2	Xbox 360	96	26.01.2010
+38	The House in Fata Morgana - Dreams of the Revenants Edition -	Switch	96	09.04.2021
+39	The Legend of Zelda: Twilight Princess	GameCube	96	11.12.2006
+40	Elden Ring	PlayStation 5	96	25.02.2022
+41	The Elder Scrolls V: Skyrim	Xbox 360	96	11.11.2011
+42	Half-Life	PC	96	19.11.1998
+43	Resident Evil 4	PlayStation 2	96	25.10.2005
+44	The Legend of Zelda: The Wind Waker	GameCube	96	24.03.2003
+45	Gran Turismo	PlayStation	96	30.04.1998
+46	BioShock	PC	96	21.08.2007
+47	Metal Gear Solid 2: Sons of Liberty	PlayStation 2	96	12.11.2001
+48	Grand Theft Auto Double Pack	Xbox	96	31.10.2003
+49	Baldur's Gate II: Shadows of Amn	PC	95	24.09.2000
+50	Grand Theft Auto: San Andreas	PlayStation 2	95	26.10.2004
+51	Grand Theft Auto: Vice City	PlayStation 2	95	27.10.2002
+52	LittleBigPlanet	PlayStation 3	95	27.10.2008
+53	The Legend of Zelda Collector's Edition	GameCube	95	17.11.2003
+54	Red Dead Redemption	PlayStation 3	95	18.05.2010
+55	Gran Turismo 3: A-Spec	PlayStation 2	95	09.07.2001
+56	Halo 2	Xbox	95	09.11.2004
+57	Persona 5 Royal	PC	95	21.10.2022
+58	The Legend of Zelda: A Link to the Past	Game Boy Advance	95	03.12.2002
+59	The Legend of Zelda: Majora's Mask	Nintendo 64	95	25.10.2000
+60	The Last of Us	PlayStation 3	95	14.06.2013
+61	Metroid Prime Remastered	Switch	95	08.02.2023
+62	The Legend of Zelda: Twilight Princess	Wii	95	19.11.2006
+63	Madden NFL 2003	PlayStation 2	95	12.08.2002
+64	Tony Hawk's Pro Skater 2	Game Boy Advance	95	30.05.2001
+65	Persona 5 Royal	PlayStation 4	95	31.03.2020
+66	The Last of Us Remastered	PlayStation 4	95	29.07.2014
+67	Portal 2	PC	95	18.04.2011
+68	Red Dead Redemption	Xbox 360	95	18.05.2010
+69	Portal 2	Xbox 360	95	19.04.2011
+70	Metal Gear Solid V: The Phantom Pain	Xbox One	95	01.09.2015
+71	Portal 2	PlayStation 3	95	19.04.2011
+72	Tetris Effect: Connected	Switch	94	08.10.2021
+73	World of Goo	Wii	94	13.10.2008
+74	The Elder Scrolls V: Skyrim	PC	94	10.11.2011
+75	BioShock Infinite	PlayStation 3	94	26.03.2013
+76	Final Fantasy IX	PlayStation	94	13.11.2000
+77	Call of Duty: Modern Warfare 2	PlayStation 3	94	10.11.2009
+78	God of War	PlayStation 4	94	20.04.2018
+79	Tony Hawk's Pro Skater 4	PlayStation 2	94	23.10.2002
+80	Devil May Cry	PlayStation 2	94	16.10.2001
+81	Call of Duty 4: Modern Warfare	PlayStation 3	94	05.11.2007
+82	Madden NFL 2002	PlayStation 2	94	19.08.2001
+83	Batman: Arkham City	Xbox 360	94	18.10.2011
+84	Persona 5 Royal	Xbox Series X	94	21.10.2022
+85	Mass Effect 2	PC	94	26.01.2010
+86	The Legend of Zelda: Ocarina of Time 3D	3DS	94	19.06.2011
+87	Chrono Cross	PlayStation	94	15.08.2000
+88	Celeste	Xbox One	94	26.01.2018
+89	BioShock	PlayStation 3	94	21.10.2008
+90	Mass Effect 2	PlayStation 3	94	17.01.2011
+91	Grand Theft Auto: Vice City	PC	94	12.05.2003
+92	Madden NFL 2004	PlayStation 2	94	12.08.2003
+93	Gears of War	Xbox 360	94	07.11.2006
+94	The Elder Scrolls IV: Oblivion	Xbox 360	94	20.03.2006
+95	Persona 5 Royal	Switch	94	21.10.2022
+96	Sid Meier's Civilization II	PC	94	29.02.1996
+97	Quake	PC	94	22.06.1996
+98	Call of Duty 4: Modern Warfare	Xbox 360	94	05.11.2007
+99	BioShock Infinite	PC	94	25.03.2013
+100	Halo 3	Xbox 360	94	25.09.2007
