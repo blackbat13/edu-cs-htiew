@@ -1,0 +1,12 @@
+"WampirID";"Imie";"DataUrodzenia";"DataPrzemiany";"KrajPochodzenia";"KlanID"
+1;"Vlad";13.01.1280;06.10.1280;"Rumunia";3
+2;"Murnau";02.02.1379;02.02.1381;"Niemcy";2
+3;"Carmilla";03.03.1480;04.04.1525;"Francja";5
+4;"Varney";01.02.1688;23.02.1803;"Anglia";4
+5;"Orlok";03.06.1732;04.05.1812;"Wegry";1
+6;"Selene";12.03.1876;16.12.1903;"Grecja";10
+7;"Ambrogio";18.08.1966;08.01.2021;"Wlochy";2
+8;"Akasha";07.09.2088;08.05.2099;"Egipt";4
+9;"Drusilla";13.10.2172;10.12.2203;"Irlandia";10
+10;"Dracula";01.06.1235;24.07.1252;"Rumunia";1
+11;"Lestat";05.02.1581;05.04.1672;"Francja";8
