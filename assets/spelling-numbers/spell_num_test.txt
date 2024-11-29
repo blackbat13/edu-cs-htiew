@@ -1,0 +1,10 @@
+4 six one four nine
+4 three nine six one
+4 nine two six nine
+3 two eight three
+4 five eight eight four
+4 six two eight one
+4 eight six four zero
+4 two one nine nine
+4 seven two two four
+4 one eight zero two
