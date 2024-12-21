@@ -1,0 +1,9 @@
+Id;Nazwa
+1;Snajper
+2;Saper
+3;Medyk polowy
+4;Specjalista ds. komunikacji
+5;Instruktor przetrwania
+6;Nurek bojowy
+7;Skoczek spadochronowy
+8;Specjalista IT
